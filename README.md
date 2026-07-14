@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AdityaChaudhari1
 - 👀 I’m interested in Codding 
-- 🌱 I’m currently learning Java Development 
-- 💞️ I’m looking to collaborate on internship 
+- 🌱 I’m currently learning Java Development  
 - 📫 How to reach me achaudhari0712@gmail.com
 
 <!---
